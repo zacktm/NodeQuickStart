@@ -8,5 +8,5 @@ For Environment Variables Handling Across the app
 # Express
 For Serving Different Server Endpoints (Get,Pull)
 
-#CORS
+# CORS
 To allow API Access from other servers
